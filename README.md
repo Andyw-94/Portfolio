@@ -1,2 +1,2 @@
-# Portfolio w/ Bootstrap
-A portfolio created using Bootstrap
+# Resume using Bootstrap
+A resume created using Bootstrap
